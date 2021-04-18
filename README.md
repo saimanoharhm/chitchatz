@@ -36,7 +36,13 @@ Backend
 - Automated replies 
 - Scheduled message
 
+## Contributing  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<br>
+This repository is contribution friendly. If you'd like to add or improve the project, your contribution is welcomed!  
+Don't forget to follow [Contribution Guidelines](https://github.com/saimanoharhm/whatsapp-/blob/master/contribution_guidelines.md) 😃  
 
+Don't forget to join the discord because all the conversation and doubts clarification related to the project is going on discord.
 
 ## Contact  
 * Discord Channel 🠮 [Discord](https://discord.gg/hf2PYeNg)  
