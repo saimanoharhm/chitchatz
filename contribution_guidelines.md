@@ -13,7 +13,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 ***If you don't have git on your machine, [install it](https://git-scm.com/downloads).***
 
 Thanks for taking the time to contribute! 🐱‍🏍  
-When contributing to this repository, please first discuss the change you wish to make via issue or any other method with the owner of this repository ([Harsh Mishra](https://github.com/saimanoharhm)) before making a change.
+When contributing to this repository, please first discuss the change you wish to make via issue or any other method with the owner of this repository ([ANNAM SAI MANOHAR](https://github.com/saimanoharhm)) before making a change.
 
 ## 💥 How to Contribute
 
