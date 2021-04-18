@@ -28,20 +28,20 @@ When contributing to this repository, please first discuss the change you wish t
 
 ### For Contribution
 
-**1.** Fork [this](https://github.com/DSC-SIST/Discord-Bot) repository.
-Click on the <a href="https://github.com/DSC-SIST/Discord-Bot"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork [this](https://github.com/saimanoharhm/whatsapp-) repository.
+Click on the <a href="https://github.com/saimanoharhm/whatsapp-"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 Open your git bash on your pc/laptop in relavent folder
 
 ```bash
-git clone https://github.com/<your-github-username>/Discord-Bot.git
+git clone https://github.com/<your-github-username>/whatsapp-.git
 ```
 
 **3.** Navigate to the project directory.
 
 ```bash
-cd Discord-Bot
+cd whatsapp-
 ```
 **5.** Create a new branch:
 ```bash
@@ -72,11 +72,11 @@ git push origin YourBranchName
 - Select any issue or created by your own. 💻  
 - Make sure the problem doesn't already exist in this repository or no one is working on that issue you want to code! 😬                                                                           
 - Create a folder for the topic you wish to add code or if a folder already exists, add your code to it. 📁  
-- In the respective folder, add your code file with proper format (e.g. `Discord-Bot/API/API.py`)
+- In the respective folder, add your code file with proper format (e.g. `whatsapp-/index.html`)
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**10.** **Congratulations!** Sit and relax, you've made your contribution to [Discord-Bot](https://github.com/DSC-SIST/Discord-Bot) project.
+**10.** **Congratulations!** Sit and relax, you've made your contribution to [whatsapp-](https://github.com/saimanoharhm/whatsapp-) project.
 
 ***🏆 After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
 
@@ -102,6 +102,6 @@ For major changes, you are welcomed to open an issue  about what you would like 
 <p align = "center">
 
 <a href="https://github.com/saimanoharhm"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-SIST/Discord-Bot)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/saimanoharhm/whatsapp-)
 
 </p>
