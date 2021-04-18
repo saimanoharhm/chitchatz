@@ -43,7 +43,7 @@ Backend
 
 ## Code of conduct 
 
-Check out the [Code of conduct](https://github.com/saimanoharhm/whatsapp-/blob/master/contribution_guidelines.md)
+Check out the [Code of conduct](https://github.com/saimanoharhm/whatsapp-/blob/master/code-of-conduct.md)
 
 ## Licence
 
