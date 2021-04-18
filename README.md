@@ -30,7 +30,7 @@ Backend
 - Nodejs
 - sql
 
-#Features
+# Features
 
 - Automated whatsapp message
 - Automated replies 
