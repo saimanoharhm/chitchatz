@@ -1,0 +1,23 @@
+body {
+    background-color: #2b2e4a;
+    Color: #e84545;
+}
+
+#navMenu {
+    background-color: #e84545;
+    color: #2b2e4a;
+}
+
+.dropdown-menu {
+    background-color: #e84545;
+    color: #2b2e4a;
+}
+
+.nav-link {
+    color: #2b2e4a;
+}
+
+.nav-item:hover .nav-link:hover {
+    background-color: #2b2e4a;
+    color: #e84545
+}
