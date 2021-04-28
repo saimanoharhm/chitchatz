@@ -1,4 +1,4 @@
-<h1 align="center"> Whatsapp </h1>
+<h1 align="center"> chitchatz </h1>
 
 ![GitHub open issues](https://img.shields.io/github/issues-raw/saimanoharhm/whatsapp-?color=%23f&logo=Github)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/saimanoharhm/whatsapp-?color=%2300&logo=Github)
@@ -36,6 +36,10 @@ Backend
 - Automated whatsapp message
 - Automated replies 
 - Scheduled message
+- Message logs
+- Unsend message
+- Status section within the profile
+
 
 ## Contributing  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
