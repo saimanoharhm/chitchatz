@@ -17,20 +17,14 @@ Our project is a responsive website. We are going to develop a website to send a
 
 # 💻Tech Stack
 
-Frontend
+## Frontend
 
-- HTML5
-- CSS3
-- Bootstrap4
-- JavaScript
-- JQuery
+<img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height=25> <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white" height=25> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height=25 >  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height=25>
 
-Backend
 
-- Nodejs
-- Expressjs
-- sql
-
+## Backend
+ <img src = "https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white" height=25> <img src = "https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat" height=25> <img src = "https://img.shields.io/badge/mysql-%2300000f.svg?&style=flat&logo=mysql&logoColor=white" height=25>
+ 
 # Features
 
 - Automated whatsapp message
